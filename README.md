@@ -7,7 +7,7 @@ In this application, customer deatails are collected through a basic HTML form. 
 To run this application on your local machine, please execute the following commands.
 
 ```
-$ git clone git@github.com:Akalanka-1996/Flask-feedback-app.git
+$ git clone https://github.com/Akalanka-1996/Flask-feedback-app
 $ cd Flask-feedback-app
 ```
 First you may run the python file by executing the following command.
