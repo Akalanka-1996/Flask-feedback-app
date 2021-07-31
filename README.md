@@ -7,8 +7,8 @@ In this application, customer deatails are collected through a basic HTML form. 
 To run this application on your local machine, please execute the following commands.
 
 ```
-$ git clone 
-$ cd
+$ git clone git@github.com:Akalanka-1996/Flask-feedback-app.git
+$ cd lask-feedback-app
 ```
 First you may run the python file and then you go to the web application running on localhost, then you may submit the deatails. When you click the submit button and those details will be stored in the database file.
 
