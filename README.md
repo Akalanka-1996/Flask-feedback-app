@@ -4,6 +4,12 @@ In this application, customer deatails are collected through a basic HTML form. 
 
 ### Installation
 
+To run this application on your local machine, please execute the following commands.
+
+```
+$ git clone 
+$ cd
+```
 First you may run the python file and then you go to the web application running on localhost, then you may submit the deatails. When you click the submit button and those details will be stored in the database file.
 
 You can use DB Browser for SQLite to visualize your data.
