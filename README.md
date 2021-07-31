@@ -13,9 +13,13 @@ $ cd Flask-feedback-app
 First you may run the python file by executing the following command.
 
 ```
-python app.py
+$ python app.py
 ```
 
-Then you go to the web application running on localhost, then you may submit the deatails. When you click the submit button and those details will be stored in the database file.
+Then you go to the web application running on localhost, then you may submit the deatails. 
+
+### Database connection
+
+When you click the submit button and those details will be stored in the database file.
 
 You can use [DB Browser](https://sqlitebrowser.org/) for SQLite to visualize your data.
