@@ -20,6 +20,6 @@ Then you go to the web application running on localhost, then you may submit the
 
 ### Database connection
 
-When you click the submit button and those details will be stored in the database file.
+When you click the submit button and those details will be stored in the database file named 'sqlitedb.file'
 
-You can use [DB Browser](https://sqlitebrowser.org/) for SQLite to visualize your data.
+You can use [DB Browser for SQLite](https://sqlitebrowser.org/) to visualize your data.
